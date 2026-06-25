@@ -1,0 +1,8 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\VerificadorParÍmpar\obj\Debug\VerificadorParÍmpar.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\VerificadorParÍmpar\obj\Debug\VerificadorParÍmpar.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\VerificadorParÍmpar\obj\Debug\VerificadorParÍmpar.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\VerificadorParÍmpar\bin\Debug\VerificadorParÍmpar.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\VerificadorParÍmpar\bin\Debug\VerificadorParÍmpar.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\VerificadorParÍmpar\bin\Debug\VerificadorParÍmpar.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\VerificadorParÍmpar\obj\Debug\VerificadorParÍmpar.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\VerificadorParÍmpar\obj\Debug\VerificadorParÍmpar.pdb

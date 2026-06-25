@@ -1,0 +1,8 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade11\atividade11\obj\Debug\atividade11.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade11\atividade11\obj\Debug\atividade11.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade11\atividade11\obj\Debug\atividade11.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade11\atividade11\bin\Debug\atividade11.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade11\atividade11\bin\Debug\atividade11.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade11\atividade11\bin\Debug\atividade11.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade11\atividade11\obj\Debug\atividade11.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade11\atividade11\obj\Debug\atividade11.pdb

@@ -1,0 +1,8 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Divisibilidade6\Divisibilidade6\obj\Debug\Divisibilidade6.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Divisibilidade6\Divisibilidade6\obj\Debug\Divisibilidade6.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Divisibilidade6\Divisibilidade6\obj\Debug\Divisibilidade6.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Divisibilidade6\Divisibilidade6\bin\Debug\Divisibilidade6.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Divisibilidade6\Divisibilidade6\bin\Debug\Divisibilidade6.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Divisibilidade6\Divisibilidade6\bin\Debug\Divisibilidade6.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Divisibilidade6\Divisibilidade6\obj\Debug\Divisibilidade6.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Divisibilidade6\Divisibilidade6\obj\Debug\Divisibilidade6.pdb

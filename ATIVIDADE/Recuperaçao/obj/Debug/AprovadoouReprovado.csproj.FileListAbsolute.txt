@@ -1,0 +1,16 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\AprovadoouReprovado\bin\Debug\AprovadoouReprovado.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\AprovadoouReprovado\bin\Debug\AprovadoouReprovado.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\AprovadoouReprovado\bin\Debug\AprovadoouReprovado.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\AprovadoouReprovado\obj\Debug\AprovadoouReprovado.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\AprovadoouReprovado\obj\Debug\AprovadoouReprovado.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\AprovadoouReprovado\obj\Debug\AprovadoouReprovado.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\AprovadoouReprovado\obj\Debug\AprovadoouReprovado.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\TelaLogin\AprovadoouReprovado\obj\Debug\AprovadoouReprovado.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\bin\Debug\AprovadoouReprovado.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\bin\Debug\AprovadoouReprovado.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\bin\Debug\AprovadoouReprovado.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\obj\Debug\AprovadoouReprovado.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\obj\Debug\AprovadoouReprovado.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\obj\Debug\AprovadoouReprovado.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\obj\Debug\AprovadoouReprovado.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\obj\Debug\AprovadoouReprovado.pdb

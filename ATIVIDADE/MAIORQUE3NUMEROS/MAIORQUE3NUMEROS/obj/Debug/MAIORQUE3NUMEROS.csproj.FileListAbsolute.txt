@@ -1,0 +1,8 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE3NUMEROS\MAIORQUE3NUMEROS\obj\Debug\MAIORQUE3NUMEROS.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE3NUMEROS\MAIORQUE3NUMEROS\obj\Debug\MAIORQUE3NUMEROS.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE3NUMEROS\MAIORQUE3NUMEROS\obj\Debug\MAIORQUE3NUMEROS.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE3NUMEROS\MAIORQUE3NUMEROS\bin\Debug\MAIORQUE3NUMEROS.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE3NUMEROS\MAIORQUE3NUMEROS\bin\Debug\MAIORQUE3NUMEROS.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE3NUMEROS\MAIORQUE3NUMEROS\bin\Debug\MAIORQUE3NUMEROS.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE3NUMEROS\MAIORQUE3NUMEROS\obj\Debug\MAIORQUE3NUMEROS.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE3NUMEROS\MAIORQUE3NUMEROS\obj\Debug\MAIORQUE3NUMEROS.pdb

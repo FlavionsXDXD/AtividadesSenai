@@ -1,0 +1,8 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Classificaçao\Classificaçao\bin\Debug\Classificaçao.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Classificaçao\Classificaçao\bin\Debug\Classificaçao.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Classificaçao\Classificaçao\bin\Debug\Classificaçao.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Classificaçao\Classificaçao\obj\Debug\Classificaçao.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Classificaçao\Classificaçao\obj\Debug\Classificaçao.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Classificaçao\Classificaçao\obj\Debug\Classificaçao.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Classificaçao\Classificaçao\obj\Debug\Classificaçao.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\Classificaçao\Classificaçao\obj\Debug\Classificaçao.pdb

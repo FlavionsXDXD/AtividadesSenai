@@ -1,0 +1,8 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\bin\Debug\Recuperaçao.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\bin\Debug\Recuperaçao.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\bin\Debug\Recuperaçao.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\obj\Debug\Recuperaçao.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\obj\Debug\AprovadoouReprovado.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\obj\Debug\Recuperaçao.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\obj\Debug\Recuperaçao.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\AprovadoouReprovado\obj\Debug\Recuperaçao.pdb

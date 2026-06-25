@@ -1,0 +1,8 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\aitvidade 9\aitvidade 9\obj\Debug\aitvidade 9.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\aitvidade 9\aitvidade 9\obj\Debug\aitvidade_9.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\aitvidade 9\aitvidade 9\obj\Debug\aitvidade 9.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\aitvidade 9\aitvidade 9\bin\Debug\aitvidade 9.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\aitvidade 9\aitvidade 9\bin\Debug\aitvidade 9.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\aitvidade 9\aitvidade 9\bin\Debug\aitvidade 9.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\aitvidade 9\aitvidade 9\obj\Debug\aitvidade 9.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\aitvidade 9\aitvidade 9\obj\Debug\aitvidade 9.pdb

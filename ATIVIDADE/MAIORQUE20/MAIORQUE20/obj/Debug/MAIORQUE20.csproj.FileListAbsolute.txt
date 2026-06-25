@@ -1,0 +1,8 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE20\MAIORQUE20\bin\Debug\MAIORQUE20.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE20\MAIORQUE20\bin\Debug\MAIORQUE20.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE20\MAIORQUE20\bin\Debug\MAIORQUE20.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE20\MAIORQUE20\obj\Debug\MAIORQUE20.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE20\MAIORQUE20\obj\Debug\MAIORQUE20.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE20\MAIORQUE20\obj\Debug\MAIORQUE20.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE20\MAIORQUE20\obj\Debug\MAIORQUE20.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\MAIORQUE20\MAIORQUE20\obj\Debug\MAIORQUE20.pdb
