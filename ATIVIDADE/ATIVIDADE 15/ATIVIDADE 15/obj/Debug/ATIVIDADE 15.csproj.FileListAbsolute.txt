@@ -1,0 +1,8 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\ATIVIDADE 15\ATIVIDADE 15\obj\Debug\ATIVIDADE 15.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\ATIVIDADE 15\ATIVIDADE 15\obj\Debug\ATIVIDADE_15.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\ATIVIDADE 15\ATIVIDADE 15\obj\Debug\ATIVIDADE 15.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\ATIVIDADE 15\ATIVIDADE 15\bin\Debug\ATIVIDADE 15.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\ATIVIDADE 15\ATIVIDADE 15\bin\Debug\ATIVIDADE 15.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\ATIVIDADE 15\ATIVIDADE 15\bin\Debug\ATIVIDADE 15.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\ATIVIDADE 15\ATIVIDADE 15\obj\Debug\ATIVIDADE 15.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\ATIVIDADE 15\ATIVIDADE 15\obj\Debug\ATIVIDADE 15.pdb

@@ -1,0 +1,16 @@
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade 17\atividade 17\obj\Debug\atividade 17.csprojResolveAssemblyReference.cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade 17\atividade 17\obj\Debug\atividade_17.MainForm.resources
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade 17\atividade 17\obj\Debug\atividade 17.csproj.GenerateResource.Cache
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade 17\atividade 17\bin\Debug\atividade 17.exe.config
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade 17\atividade 17\bin\Debug\atividade 17.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade 17\atividade 17\bin\Debug\atividade 17.pdb
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade 17\atividade 17\obj\Debug\atividade 17.exe
+C:\Users\aluno_iot\Documents\SharpDevelop Projects\atividade 17\atividade 17\obj\Debug\atividade 17.pdb
+C:\Users\Flavio\Desktop\Atividades novas\atividade 17\atividade 17\bin\Debug\atividade 17.exe.config
+C:\Users\Flavio\Desktop\Atividades novas\atividade 17\atividade 17\bin\Debug\atividade 17.exe
+C:\Users\Flavio\Desktop\Atividades novas\atividade 17\atividade 17\bin\Debug\atividade 17.pdb
+C:\Users\Flavio\Desktop\Atividades novas\atividade 17\atividade 17\obj\Debug\atividade 17.csprojResolveAssemblyReference.cache
+C:\Users\Flavio\Desktop\Atividades novas\atividade 17\atividade 17\obj\Debug\atividade_17.MainForm.resources
+C:\Users\Flavio\Desktop\Atividades novas\atividade 17\atividade 17\obj\Debug\atividade 17.csproj.GenerateResource.Cache
+C:\Users\Flavio\Desktop\Atividades novas\atividade 17\atividade 17\obj\Debug\atividade 17.exe
+C:\Users\Flavio\Desktop\Atividades novas\atividade 17\atividade 17\obj\Debug\atividade 17.pdb

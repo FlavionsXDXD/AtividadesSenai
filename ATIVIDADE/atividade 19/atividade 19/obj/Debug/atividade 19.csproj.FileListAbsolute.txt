@@ -1,0 +1,8 @@
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 19\atividade 19\bin\Debug\atividade 19.exe.config
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 19\atividade 19\bin\Debug\atividade 19.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 19\atividade 19\bin\Debug\atividade 19.pdb
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 19\atividade 19\obj\Debug\atividade 19.csprojResolveAssemblyReference.cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 19\atividade 19\obj\Debug\atividade 19.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 19\atividade 19\obj\Debug\atividade 19.pdb
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 19\atividade 19\obj\Debug\atividade_19.MainForm.resources
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 19\atividade 19\obj\Debug\atividade 19.csproj.GenerateResource.Cache
