@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.2
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atividade 22", "atividade 22\atividade 22.csproj", "{8615552F-9B57-4A21-9C40-A5679CB86F7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8615552F-9B57-4A21-9C40-A5679CB86F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8615552F-9B57-4A21-9C40-A5679CB86F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8615552F-9B57-4A21-9C40-A5679CB86F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8615552F-9B57-4A21-9C40-A5679CB86F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

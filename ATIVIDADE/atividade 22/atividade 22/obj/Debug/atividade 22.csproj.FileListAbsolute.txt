@@ -1,0 +1,8 @@
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 22\atividade 22\bin\Debug\atividade 22.exe.config
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 22\atividade 22\bin\Debug\atividade 22.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 22\atividade 22\bin\Debug\atividade 22.pdb
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 22\atividade 22\obj\Debug\atividade 22.csprojResolveAssemblyReference.cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 22\atividade 22\obj\Debug\atividade 22.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 22\atividade 22\obj\Debug\atividade 22.pdb
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 22\atividade 22\obj\Debug\atividade_22.MainForm.resources
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 22\atividade 22\obj\Debug\atividade 22.csproj.GenerateResource.Cache

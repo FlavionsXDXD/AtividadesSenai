@@ -1,0 +1,8 @@
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 24\atividade 24\obj\Debug\atividade 24.csprojResolveAssemblyReference.cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 24\atividade 24\obj\Debug\atividade_24.MainForm.resources
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 24\atividade 24\obj\Debug\atividade 24.csproj.GenerateResource.Cache
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 24\atividade 24\bin\Debug\atividade 24.exe.config
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 24\atividade 24\bin\Debug\atividade 24.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 24\atividade 24\bin\Debug\atividade 24.pdb
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 24\atividade 24\obj\Debug\atividade 24.exe
+C:\Users\Flavio\Documents\SharpDevelop Projects\atividade 24\atividade 24\obj\Debug\atividade 24.pdb
